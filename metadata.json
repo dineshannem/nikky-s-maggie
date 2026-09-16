@@ -1,0 +1,7 @@
+{
+  "name": "Nikky's Maggie House",
+  "description": "Mobile-first QR Scan & Order system with direct UPI payment integration, shop standees, zero-scroll category browsing, and live kitchen management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
